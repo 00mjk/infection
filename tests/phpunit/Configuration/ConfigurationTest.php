@@ -201,6 +201,7 @@ final class ConfigurationTest extends TestCase
             ['exclude-dir'],
             new Logs(
                 'text.log',
+                'report.html',
                 'summary.log',
                 'json.log',
                 'debug.log',
